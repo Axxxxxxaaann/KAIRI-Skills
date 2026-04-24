@@ -286,7 +286,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## Related Projects
 
-- [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — Original source repository
 - [MITRE ATT&CK](https://attack.mitre.org/) — Framework for threat techniques
 - [Sigma](https://github.com/SigmaHQ/sigma) — Detection rule format
 - [OWASP](https://owasp.org/) — Web application security resources
