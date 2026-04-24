@@ -1,0 +1,72 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Editor
+*.sublime-*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+versions/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Security tools output
+*.raw
+*.pcap
+*.cap
+*.evtx
+samples/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
