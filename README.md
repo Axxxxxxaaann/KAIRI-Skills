@@ -1,7 +1,11 @@
-# KAIRI-Skills 🔐
+    
+# KAIRI Anthropic Cybersecurity Skills
 
 <div align="center">
 <img width="1600" height="711" alt="mop" src="https://github.com/user-attachments/assets/47758fdd-5615-4b2e-803c-eb4370c4b7e1" />
+
+[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KairiSkills)
+![CA](https://img.shields.io/badge/CA-Coming%20Soon-00FF41?style=for-the-badge)
 
 ![KAIRI-Skills Banner](https://img.shields.io/badge/KAIRI-Skills-00FF41?style=for-the-badge&logo=terminal&logoColor=black)
 ![MIT License](https://img.shields.io/badge/License-MIT-00FF41?style=for-the-badge)
