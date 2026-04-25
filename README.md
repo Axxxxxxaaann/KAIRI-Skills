@@ -1,6 +1,7 @@
 # KAIRI-Skills 🔐
 
 <div align="center">
+<img width="1600" height="711" alt="mop" src="https://github.com/user-attachments/assets/47758fdd-5615-4b2e-803c-eb4370c4b7e1" />
 
 ![KAIRI-Skills Banner](https://img.shields.io/badge/KAIRI-Skills-00FF41?style=for-the-badge&logo=terminal&logoColor=black)
 ![MIT License](https://img.shields.io/badge/License-MIT-00FF41?style=for-the-badge)
